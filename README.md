@@ -12,7 +12,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Engineer.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.Python**, **.py**, **.js**, **.sql**
+- 💻 I use daily **.Csharp**, **.Python**, **.SQL**, **.cs**, **.razor**, **.py**, **.js**, **.sql**
 - 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals).
 - 👯 We can connect to play some games of Dota2.
 - ⚡ Fun fact: Coca-Cola was originally green.
