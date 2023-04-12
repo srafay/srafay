@@ -100,7 +100,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝In 2005, Sony illegally installed rootkits on 22 million computers to prevent the users from ripping copyrighted music, and could not be uninstalled. It also reported user’s listening habits back to Sony. Ironically, the code itself contained open source software, and so infringed copyright.❞</i>
+<i>❝The woman who rented her garage to Larry Page and Sergey Brin in 1998 when they were creating Google later became the CEO of YouTube.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
