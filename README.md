@@ -56,7 +56,7 @@
 
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first 1GB hard disk drive was announced in 1980 which weighed about 550 pounds, and had a price tag of $40,000.❞</i>
+<i>❝In 1833, Charles Babbage invented all the parts a modern computer uses, but it wasn’t until 120 years later that the first modern computers were invented.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
